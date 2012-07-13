@@ -1,0 +1,104 @@
+﻿using Butterfly.HabboHotel.Rooms.Wired.WiredHandlers.Interfaces;
+using Butterfly.HabboHotel.Rooms.Games;
+using Butterfly.HabboHotel.Items;
+using Database_Manager.Database.Session_Details.Interfaces;
+using System.Data;
+using System;
+
+namespace Butterfly.HabboHotel.Rooms.Wired.WiredHandlers.Effects
+{
+    class GiveScore : IWiredEffect, IWiredTrigger
+    {
+        private int maxCountPerGame;
+        private int currentGameCount;
+        private int scoreToGive;
+        private GameManager gameManager;
+        private RoomEventDelegate delegateFunction;
+        private uint itemID;
+        
+        public GiveScore(int maxCountPerGame, int scoreToGive, GameManager gameManager, uint itemID)
+        {
+            this.maxCountPerGame = maxCountPerGame;
+            this.currentGameCount = 0;
+            this.scoreToGive = scoreToGive;
+            this.delegateFunction = new RoomEventDelegate(gameManager_OnGameStart);
+            this.gameManager = gameManager;
+            this.itemID = itemID;
+
+            gameManager.OnGameStart += delegateFunction;
+        }
+
+        private void gameManager_OnGameStart(object sender, System.EventArgs e)
+        {
+            currentGameCount = 0;
+        }
+
+        public bool Handle(RoomUser user, Team team, RoomItem item)
+        {
+            if (team != Team.none && maxCountPerGame > currentGameCount)
+            {
+                currentGameCount++;
+                gameManager.AddPointToTeam(team, scoreToGive, user);
+                gameManager.GetRoom().GetWiredHandler().OnEvent(itemID);
+                return true;
+            }
+
+            return false;
+        }
+
+        public void Dispose()
+        {
+            gameManager.OnGameStart -= delegateFunction;
+            gameManager = null;
+            delegateFunction = null;
+        }
+
+        public bool IsSpecial(out SpecialEffects function)
+        {
+            function = SpecialEffects.None;
+            return false;
+        }
+
+
+        public void SaveToDatabase(IQueryAdapter dbClient)
+        {
+            if (dbClient.dbType == Database_Manager.Database.DatabaseType.MSSQL)
+            {
+                dbClient.runFastQuery("DELETE FROM trigger_item WHERE trigger_id = " + itemID);
+                dbClient.setQuery("INSERT INTO trigger_item SET trigger_id = @id, trigger_input = 'integer',  trigger_data = @trigger_data, trigger_data_2 = @trigger_data_2, all_user_triggerable = 0");
+            }
+            else
+            {
+                dbClient.setQuery("REPLACE INTO trigger_item SET trigger_id = @id, trigger_input = 'integer',  trigger_data = @trigger_data, trigger_data_2 = @trigger_data_2, all_user_triggerable = 0");
+            }
+
+            dbClient.addParameter("id", this.itemID);
+            dbClient.addParameter("trigger_data", this.maxCountPerGame);
+            dbClient.addParameter("trigger_data_2", this.scoreToGive);
+
+            dbClient.runQuery();
+        }
+
+        public void LoadFromDatabase(IQueryAdapter dbClient, Room insideRoom)
+        {
+            dbClient.setQuery("SELECT trigger_data, trigger_data_2 FROM trigger_item WHERE trigger_id = @id ");
+            dbClient.addParameter("id", this.itemID);
+            DataRow dRow = dbClient.getRow();
+            if (dRow != null)
+            {
+                this.maxCountPerGame = Convert.ToInt32(dRow[0].ToString());
+                this.scoreToGive = Convert.ToInt32(dRow[1].ToString());
+            }
+            else
+            {
+                maxCountPerGame = 0;
+                scoreToGive = 0;
+            }
+        }
+
+        public void DeleteFromDatabase(IQueryAdapter dbClient)
+        {
+            dbClient.runFastQuery("DELETE FROM trigger_item WHERE trigger_id = ' " + this.itemID + "'");
+        }
+    }
+}

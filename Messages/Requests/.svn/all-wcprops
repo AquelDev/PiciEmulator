@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/Messages/Requests
+END
+SoundMachine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/SoundMachine.cs
+END
+Groups.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Groups.cs
+END
+Rooms.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Rooms.cs
+END
+Global.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Global.cs
+END
+Users.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Users.cs
+END
+Quests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Quests.cs
+END
+Handshake.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Handshake.cs
+END
+Help.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Help.cs
+END
+Messenger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Messenger.cs
+END
+Catalog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Catalog.cs
+END
+Navigator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/Messages/Requests/Navigator.cs
+END

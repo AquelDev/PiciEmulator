@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine
+END
+MusicManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/MusicManager.cs
+END
+SongInstance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SongInstance.cs
+END
+SoundTemplateFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SoundTemplateFactory.cs
+END
+SongData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SongData.cs
+END
+RoomMusicController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/RoomMusicController.cs
+END
+SongManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SongManager.cs
+END
+SoundTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SoundTemplate.cs
+END
+SongItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SongItem.cs
+END
+Song.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/Song.cs
+END
+SoundMachineManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/SoundMachine/SoundMachineManager.cs
+END

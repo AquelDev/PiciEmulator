@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Colibri/!svn/ver/4/trunk/Emulator/ServerSide/LoggingSystem
+END
+MessageLoggerManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/4/trunk/Emulator/ServerSide/LoggingSystem/MessageLoggerManager.cs
+END
+LogState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Colibri/!svn/ver/2/trunk/Emulator/ServerSide/LoggingSystem/LogState.cs
+END
+Message.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Colibri/!svn/ver/2/trunk/Emulator/ServerSide/LoggingSystem/Message.cs
+END

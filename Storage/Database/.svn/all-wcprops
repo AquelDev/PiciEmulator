@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database
+END
+MsSqlClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/MsSqlClient.cs
+END
+DatabaseManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/DatabaseManager.cs
+END
+DatabaseClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Database%20Manager/Database_Manager/Database/DatabaseClient.cs
+END
+DatabaseStats.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Database%20Manager/Database_Manager/Database/DatabaseStats.cs
+END
+MySqlClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/MySqlClient.cs
+END
+DatabaseType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/DatabaseType.cs
+END

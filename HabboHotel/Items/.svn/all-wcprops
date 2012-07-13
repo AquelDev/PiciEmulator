@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Colibri/!svn/ver/5/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items
+END
+RoomItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/RoomItem.cs
+END
+UserItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/UserItem.cs
+END
+FurniInteractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/FurniInteractor.cs
+END
+Item.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/Item.cs
+END
+MoodlightData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/MoodlightData.cs
+END
+InteractionType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/InteractionType.cs
+END
+TeleHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/TeleHandler.cs
+END
+WallCoordinate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/WallCoordinate.cs
+END
+ItemManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Items/ItemManager.cs
+END

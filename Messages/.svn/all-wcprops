@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/Messages
+END
+ServerMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/ServerMessage.cs
+END
+ChatCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/ChatCommand.cs
+END
+GameClientMessageHander.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/GameClientMessageHander.cs
+END
+ChatCommandRegister.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/Messages/ChatCommandRegister.cs
+END
+ClientMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/ClientMessage.cs
+END
+PacketRank.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/PacketRank.cs
+END
+QueuedServerMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Messages/QueuedServerMessage.cs
+END

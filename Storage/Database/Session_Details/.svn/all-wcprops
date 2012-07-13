@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/Session_Details
+END
+TransactionQueryReactor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/Session_Details/TransactionQueryReactor.cs
+END
+NormalQueryReactor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Database%20Manager/Database_Manager/Database/Session_Details/NormalQueryReactor.cs
+END
+MsSqlQueryReactor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Database%20Manager/Database_Manager/Database/Session_Details/MsSqlQueryReactor.cs
+END
+QueryAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Database%20Manager/Database_Manager/Database/Session_Details/QueryAdapter.cs
+END
+MSSQLQueryAdapter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Database%20Manager/Database_Manager/Database/Session_Details/MSSQLQueryAdapter.cs
+END

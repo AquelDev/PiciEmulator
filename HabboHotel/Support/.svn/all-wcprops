@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support
+END
+ModerationBanManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/ModerationBanManager.cs
+END
+ModerationTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Colibri/!svn/ver/10/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/ModerationTool.cs
+END
+SupportTicket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/SupportTicket.cs
+END
+ModerationBanException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/ModerationBanException.cs
+END
+ModerationBan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/ModerationBan.cs
+END
+HelpCategory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/HelpCategory.cs
+END
+HelpTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/HelpTool.cs
+END
+HelpTopic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Support/HelpTopic.cs
+END

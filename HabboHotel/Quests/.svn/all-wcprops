@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Quests
+END
+QuestManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Quests/QuestManager.cs
+END
+Quest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Quests/Quest.cs
+END
+QuestType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Quests/QuestType.cs
+END
+QuestTypeUtillity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Quests/QuestTypeUtillity.cs
+END

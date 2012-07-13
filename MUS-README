@@ -1,0 +1,36 @@
+To use 'MUS' right you need to code a equal function like this sendMUS function, or even use this.
+
+<?php
+
+function SendMUSData($header,$data,$extradata = ""){
+$ip = '127.0.0.1';
+$port = 1000;
+$data = $header.chr(1).$data;
+if(!empty($extradata)){
+	$data = $data.chr(1).$extradata;
+}
+if(!is_numeric($port)){ return false; }
+$sock = socket_create(AF_INET, SOCK_STREAM, getprotobyname('tcp'));
+socket_connect($sock, $ip, $port);
+
+        if(!is_resource($sock)){
+                return false;
+        } else {
+                socket_send($sock, $data, strlen($data), MSG_DONTROUTE);
+                return true;
+        }
+
+	socket_close($sock);
+}
+?>
+
+To use it you now need to edit your config. 
+
+To call a MUS command now execute some of this. These are examples what would work!
+
+SendMUSData('updatecredits', 'USERID'); // Updates credits ingame for user with Userid from database!
+SendMUSData('signout', 'USERID'); // disconnects user!
+SendMUSData('ha', 'TEXT'); //Sends a Hotelalert to all users!
+SendMUSData('useralert', 'USERID', 'TEXT'); //Sends an Alert to User 
+SendMUSData('useralert', 'USERID', 'TEXT'.chr(2).'URL'); //Sends an Alert with Link to User 
+SendMUSData('ban', 'USERNAME', 'BANTIME'.chr(2).'REASON'); //Bans user from Hotel

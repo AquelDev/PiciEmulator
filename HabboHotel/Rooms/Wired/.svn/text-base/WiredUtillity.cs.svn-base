@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Butterfly.HabboHotel.Items;
+
+namespace Butterfly.HabboHotel.Rooms.Wired
+{
+    class WiredUtillity
+    {
+        internal static bool TypeIsWired(InteractionType type)
+        {
+            switch (type)
+            {
+                case InteractionType.triggertimer:
+                case InteractionType.triggerroomenter:
+                case InteractionType.triggergameend:
+                case InteractionType.triggergamestart:
+                case InteractionType.triggerrepeater:
+                case InteractionType.triggeronusersay:
+                case InteractionType.triggerscoreachieved:
+                case InteractionType.triggerstatechanged:
+                case InteractionType.triggerwalkonfurni:
+                case InteractionType.triggerwalkofffurni:
+                case InteractionType.actiongivescore:
+                case InteractionType.actionposreset:
+                case InteractionType.actionmoverotate:
+                case InteractionType.actionresettimer:
+                case InteractionType.actionshowmessage:
+                case InteractionType.actionteleportto:
+                case InteractionType.actiontogglestate:
+                case InteractionType.conditionfurnishaveusers:
+                case InteractionType.conditionstatepos:
+                case InteractionType.conditiontimelessthan:
+                case InteractionType.conditiontimemorethan:
+                case InteractionType.conditiontriggeronfurni:
+                    return true;
+                default:
+                    return false;
+            }
+
+        }
+    }
+}

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/Core
+END
+ConsoleCommandHandeling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/Core/ConsoleCommandHandeling.cs
+END
+RandomBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/RandomBase.cs
+END
+TimedLock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/TimedLock.cs
+END
+ExceptionType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/ExceptionType.cs
+END
+ConfigurationData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/ConfigurationData.cs
+END
+IniReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/IniReader.cs
+END
+LanguageLocale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/LanguageLocale.cs
+END
+FileSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/FileSystem.cs
+END
+Logging.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/Logging.cs
+END
+ConnectionHandeling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Core/ConnectionHandeling.cs
+END

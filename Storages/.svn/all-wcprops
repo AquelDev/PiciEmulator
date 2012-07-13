@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Storage
+END
+DatabaseManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Storage/DatabaseManager.cs
+END
+DatabaseProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Storage/DatabaseProperties.cs
+END
+DatabaseClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Storage/DatabaseClient.cs
+END
+DatabaseException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Storage/DatabaseException.cs
+END

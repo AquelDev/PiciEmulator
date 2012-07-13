@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections
+END
+ClonedTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/ClonedTable.cs
+END
+Collections.rar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/Collections.rar
+END
+LockTimeoutException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/LockTimeoutException.cs
+END
+QueuedDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/QueuedDictionary.cs
+END
+Sandbox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/Sandbox.cs
+END
+Locker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/Locker.cs
+END
+SafeEnumerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/SafeEnumerator.cs
+END
+SafeEnumeratorKvp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/SafeEnumeratorKvp.cs
+END
+ReaderWriterMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/ReaderWriterMethods.cs
+END
+SafeDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/SafeDictionary.cs
+END
+DefinedHashtable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/DefinedHashtable.cs
+END
+SafeList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Collections/SafeList.cs
+END

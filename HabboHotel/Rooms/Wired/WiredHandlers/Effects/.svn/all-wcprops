@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects
+END
+TeleportToItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/TeleportToItem.cs
+END
+ToggleItemState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/ToggleItemState.cs
+END
+TimerReset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/TimerReset.cs
+END
+MoveRotate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/MoveRotate.cs
+END
+ShowMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/ShowMessage.cs
+END
+GiveScore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/GiveScore.cs
+END
+MovementManagement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/MovementManagement.cs
+END
+PositionReset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Effects/PositionReset.cs
+END

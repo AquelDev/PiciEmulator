@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Achievements
+END
+AchievementLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Achievements/AchievementLevel.cs
+END
+AchievementManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Colibri/!svn/ver/8/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Achievements/AchievementManager.cs
+END
+UserAchievement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Achievements/UserAchievement.cs
+END
+Achievement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Achievements/Achievement.cs
+END
+AchievementLevelFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Achievements/AchievementLevelFactory.cs
+END

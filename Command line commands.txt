@@ -1,0 +1,22 @@
+Console.WriteLine("shutdown - shuts down the server");
+flush
+	settings
+		catalog - flushes catalog
+		modeldata - flushes modeldata
+		bans - flushes bans
+	users - disconnects everyone that does not got a user
+	connections - closes all server connectinons
+	rooms - unloads all rooms
+	ddosprotection - flushes ddos protection
+	console - clears console
+	toilet - flushes the toilet
+	cache - flushes the cache
+view + parameter stat
+	connections - views connections
+	users - views users
+	rooms - views rooms
+	dbconnections - views active database connections
+	console - views server output (Press enter to disable)
+setddosprotection /ddos (true/false) - enables or disables ddos
+alert (message) - sends allert to everyone online
+help - shows commandlist

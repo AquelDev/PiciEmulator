@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Colibri/!svn/ver/5/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms
+END
+CoordItemSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/CoordItemSearch.cs
+END
+RoomUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomUser.cs
+END
+Room.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Room.cs
+END
+AffectedTile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/AffectedTile.cs
+END
+RoomAllert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomAllert.cs
+END
+RoomMusicController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomMusicController.cs
+END
+ItemSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/ItemSearch.cs
+END
+ChatMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/ChatMessage.cs
+END
+RoomIcon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomIcon.cs
+END
+PublicRoomSquare.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/PublicRoomSquare.cs
+END
+Delegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Delegates.cs
+END
+RoomModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomModel.cs
+END
+EventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/EventArgs.cs
+END
+Trade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Trade.cs
+END
+RoomItemHandling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomItemHandling.cs
+END
+RoomLinkInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomLinkInformation.cs
+END
+DynamicRoomModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/DynamicRoomModel.cs
+END
+MatrixState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/MatrixState.cs
+END
+RoomData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomData.cs
+END
+RoomUserManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomUserManager.cs
+END
+Gamemap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/4/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Gamemap.cs
+END
+RoomManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomManager.cs
+END
+RoomCategory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/RoomCategory.cs
+END

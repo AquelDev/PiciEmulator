@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Colibri/!svn/ver/6/trunk/Emulator/Butterfly%20Emulator/Net
+END
+TcpConnectionListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Net/TcpConnectionListener.cs
+END
+MusSocket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Colibri/!svn/ver/10/trunk/Emulator/Butterfly%20Emulator/Net/MusSocket.cs
+END
+GamePacketParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Net/GamePacketParser.cs
+END
+InitialPacketParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Net/InitialPacketParser.cs
+END
+TcpConnectionManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Net/TcpConnectionManager.cs
+END
+TcpConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Net/TcpConnection.cs
+END
+TcpAuthorization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/Net/TcpAuthorization.cs
+END

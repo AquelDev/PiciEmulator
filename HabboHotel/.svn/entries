@@ -1,0 +1,122 @@
+10
+
+dir
+6
+https://martins-pc:8443/svn/Colibri/trunk/Emulator/Butterfly%20Emulator/HabboHotel
+https://martins-pc:8443/svn/Colibri
+
+
+
+2011-12-23T16:14:32.568750Z
+6
+Moritz
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+23927cfd-52b2-824d-9b46-ca8a5d42af8b
+
+Items
+dir
+
+Quests
+dir
+
+Roles
+dir
+
+NewAchievements
+dir
+
+GameClients
+dir
+
+Misc
+dir
+
+Pathfinding
+dir
+
+Group
+dir
+
+Advertisements
+dir
+
+Catalogs
+dir
+
+Rooms
+dir
+
+Users
+dir
+
+RoomBots
+dir
+
+Events
+dir
+
+ChatMessageStorage
+dir
+
+Achievements
+dir
+
+Pets
+dir
+
+Support
+dir
+
+Game.cs
+file
+8
+
+
+
+2011-12-23T20:03:45.281822Z
+069a425ba0a5e1f1bec8609c6bd163b6
+2011-12-25T00:42:56.554533Z
+8
+Martin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13520
+
+Navigators
+dir
+
+SoundMachine
+dir
+

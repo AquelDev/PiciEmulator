@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/IRC/Messages
+END
+PrivateMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/IRC/Messages/PrivateMessage.cs
+END
+PublicMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/IRC/Messages/PublicMessage.cs
+END
+IServerMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/IRC/Messages/IServerMessage.cs
+END

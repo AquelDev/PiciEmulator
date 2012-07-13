@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Colibri/!svn/ver/5/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots
+END
+PetBot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/PetBot.cs
+END
+BotAI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/BotAI.cs
+END
+BotManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Colibri/!svn/ver/5/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/BotManager.cs
+END
+GenericBot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/GenericBot.cs
+END
+RoomBot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/RoomBot.cs
+END
+GuideBot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/GuideBot.cs
+END
+BotResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/BotResponse.cs
+END
+RandomSpeech.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/RoomBots/RandomSpeech.cs
+END

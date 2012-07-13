@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers
+END
+EntersRoom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/EntersRoom.cs
+END
+UserSays.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/UserSays.cs
+END
+Timer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/Timer.cs
+END
+WalksOffFurni.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/WalksOffFurni.cs
+END
+WalksOnFurni.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/WalksOnFurni.cs
+END
+GameEnds.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/GameEnds.cs
+END
+ScoreAchieved.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Colibri/!svn/ver/11/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/ScoreAchieved.cs
+END
+SateChanged.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/SateChanged.cs
+END
+Repeater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Colibri/!svn/ver/9/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/Repeater.cs
+END
+GameStarts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Colibri/!svn/ver/2/trunk/Emulator/Butterfly%20Emulator/HabboHotel/Rooms/Wired/WiredHandlers/Triggers/GameStarts.cs
+END
